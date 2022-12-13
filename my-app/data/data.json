@@ -1,0 +1,21 @@
+{
+  "todolist": [
+    {
+      "id": 1,
+      "todo": "할일 3",
+      "contents": "뼈를 깎는 각오",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "todo": "할일 3",
+      "contents": "뼈를 깎는 각오",
+      "checked": true
+    },
+    {
+      "todo": "허쉬허쉬",
+      "contents": "허쉬후허쉬",
+      "id": 3
+    }
+  ]
+}
